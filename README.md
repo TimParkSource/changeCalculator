@@ -1,11 +1,9 @@
 # changeCalculator
 -------
 ## What does it do
-
 Creates change for cash transactions. Made just for fun because I've been working with a cash register recently and wish it had this feature.
 
 ## Features
-
 Currently we can make change using the:
 
 * **Greedy Algorithm**
