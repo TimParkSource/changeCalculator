@@ -10,4 +10,4 @@ Currently we can make change using the:
 
 * **Greedy Algorithm**
   
-That's it for now. It's a solid algorithm though there are more optimal ones out there. Should work unless you run out of some denominations.
+That's it for now. It's a solid algorithm though there are more optimal ones out there. Should work unless you run out of money.
